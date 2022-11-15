@@ -8,7 +8,7 @@ console.log(`
     5 - Brigadeiro – 8 segundos
 `);
 
-// escolha
+// escolha uma opçãoo
 let tempopadrao = 0;
 let opcao = readlineSync.question('Selecione um item do MENU. ');
 let tempo = readlineSync.questionInt('Insira o tempo de preparo em segundos ');
